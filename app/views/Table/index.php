@@ -2,8 +2,9 @@
 <html>
 
 <head>
-    <title>Dima Table</title>
+    <title>Dima</title>
 </head>
+
 <body>
     <table border="1">
         <thead>
